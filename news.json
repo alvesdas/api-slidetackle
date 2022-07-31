@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Brasil chega à final da Copa América correndo mais rápido e por mais tempo",
+    "description": "Dados obtidos pelo ge mostram que ritmo da seleção aumentou ao longo da competição. As quedas de intensidade no segundo tempo diminuíram",
+    "image": "https://s2.glbimg.com/dQNYA3xr8VEmbdIxFoDInAKVmC4=/0x0:4096x2731/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/4/H/iyWsnpSZG6eYy4B24jkA/selecao.jpg",
+    "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/07/30/brasil-chega-a-final-da-copa-america-correndo-mais-rapido-e-por-mais-tempo.ghtml"
+  },
+  {
+    "id": 2,
+    "title": "Convidada de honra, Formiga irá entrar com taça da Copa América em campo: 'Reconhecimento de uma luta'",
+    "description": "Aposentada da Seleção desde dezembro de 2021, jogadora estará no estádio Alfonso López para Brasil x Colômbia, às 21h (de Brasília)",
+    "image": "https://s2.glbimg.com/sHKB45pWTI3Se_PEA1IzRBYQCok=/0x0:910x607/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/h/H/9MY5r5Roaj5gh8zNAhkw/formigaaaaa.jpeg",
+    "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/07/30/convidada-de-honra-formiga-ira-entrar-com-taca-da-copa-america-em-campo-reconhecimento-de-uma-luta.ghtml"
+  },
+  {
+    "id": 3,
+    "title": "Na mira do Barcelona, jogadora de 17 anos é esperança da Colômbia na final da Copa América",
+    "description": "Linda Caicedo marcou o gol decisivo do país diante da Argentina na última segunda-feira. Decisão da disputa sul-americana é no próximo sábado, 21h (de Brasília)",
+    "image": "https://s2.glbimg.com/TCXruZpAcreJdHlRJVPxCMfghUc=/0x0:1024x680/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/F/n/jPKuUmQYAZfF6Z2WuQLw/000-32fg6dt.jpg",
+    "link": "https://ge.globo.com/futebol/futebol-feminino/copa-america-feminina/noticia/2022/07/28/na-mira-do-barcelona-jogadora-de-17-anos-e-esperanca-da-colombia-na-final-da-copa-america.ghtml"
+  },
+  {
+    "id": 4,
+    "title": "Resistente, Sport conquista acesso à Série A2 do Brasileiro Feminino após empate com VF4",
+    "description": "Rubro-negras empataram com VF4, da Paraíba, por 2 a 2 neste sábado e conseguiram a classificação pelo placar agregado, após uma vitória por 2 a 0 no duelo de ida",
+    "image": "https://s2.glbimg.com/yGeI0sljN5mOKbs7WK_1jXTOk6c=/0x0:1489x993/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/K/m/IJDwT2SAAFEuBAT7iyOA/fyx296cxkaidxqz.jpg",
+    "link": "https://ge.globo.com/pe/futebol/times/sport/noticia/2022/07/23/sport-conquista-acesso-para-serie-a2-do-brasileiro-feminino.ghtml"
+  },
+  {
+    "id": 5,
+    "title": "Onda de lesões desfalca seleções nas competições internacionais do futebol feminino",
+    "description": "Ruptura de ligamento é, sozinha, responsável por quatro baixas importantes: Marta na Copa América, Catarina Macario no Campeonato da Concacaf, Alexia e Maroszán na Eurocopa",
+    "image": "https://s2.glbimg.com/ZGH1fohEBaOfc9v7_BzlpDcZjbU=/0x0:1080x608/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/L/k/GRewM7ShqSybZZPBdJzg/carrossel-lesao.jpg",
+    "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2022/07/06/onda-de-lesoes-desfalca-selecoes-nas-competicoes-internacionais-do-futebol-feminino.ghtml"
+  }
+]
